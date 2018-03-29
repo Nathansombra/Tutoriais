@@ -1,1 +1,8 @@
 # Tutoriais
+Conteúdo dos arquivos:
+
+Tutorial 1 - EQUAÇÕES DE ESTADO: RESOLUÇÃO DE PROBLEMAS UTILIZANDO O MS-EXCEL 2013
+Tutorial 2 - EXCEL PARA ENGENHEIROS: O USO DO MS-EXCEL COMO FERRAMENTA AUXILIAR NA RESOLUÇÃO DE PROBLEMAS DE ENGENHARIA
+Tutorial 3 - TERMODINÂMICA: O USO DA FERRAMENTA XSEOS NA RESOLUÇÃO DE PROBLEMAS DE EQUILÍBRIO DE FASES
+
+Dúvidas ou sugestões são bem-vindas e devem ser enviadas para nathansombra@hotmail.com
